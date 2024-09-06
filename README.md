@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Rush and Go with Azure AI**
 
-- 👯 I’m looking to collaborate on **AI based(azure AI) projects**
+- 👯 I’m looking to collaborate For SIH
 
 - 💬 Ask me about **anything.**
 
