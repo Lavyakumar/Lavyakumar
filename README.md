@@ -107,5 +107,5 @@ Image below will redirect you to the project on Devfolio…
 Feel free to reach out for collaboration opportunities or just to chat. I'm always open to learning and sharing knowledge!
 
 ## 🎉 Fun Fact
-- I am 18 years old and excited to explore the world of technology.
+- I am 20 years old and excited to explore the world of technology.
 
