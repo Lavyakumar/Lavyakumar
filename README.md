@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavyakumar&label=Profile%20views&color=0e75b6&style=flat" alt="lavyakumar" /> </p>
 
-- 🔭 I’m currently working on **Note-ify**
+- 🔭 I’m currently working on **Nothing**
 - 🌱 I’m currently learning **Rush and Go with Azure AI**
 - 👯 I’m looking to collaborate For **SIH**
 - 💬 Ask me about **anything!**
-- ⚡ Fun fact: **I am just 18**
+- ⚡ Fun fact: **I am just 20**
 
 ## 🌐 Visit My Website
 - Check out my personal website: [lavyakumar.framer.website](https://lavyakumar.framer.website)
